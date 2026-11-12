@@ -1,0 +1,6 @@
+{
+  "name": "Generación Consciente",
+  "description": "Programa educativo y preventivo para adolescentes y jóvenes del Distrito Educativo 15 - 01 en República Dominicana. Concientización en salud mental, vapeo, prevención de acoso y embarazo adolescente.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
